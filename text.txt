@@ -1,0 +1,3 @@
+https://colab.research.google.com/drive/1Nn5FEmA08wEQEsUPabK5NbwO4yiG_Ehu?usp=sharing
+
+https://www.kaggle.com/datasets/sunilthite/llm-detect-ai-generated-text-dataset
